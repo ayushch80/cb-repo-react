@@ -8,9 +8,9 @@
     "react-dom": "^18.1.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
-    "@material-ui/core",
-    "@mui/icons-material",
-    "@mui/material"
+    "@material-ui/core": "^4.12.4",
+    "@mui/icons-material": "^5.10.2",
+    "@mui/material: "^5.10.2"
   },
   "scripts": {
     "start": "react-scripts start",
