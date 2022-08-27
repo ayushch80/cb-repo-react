@@ -1,9 +1,11 @@
 import * as React from "react";
 import * as Bootstrap from "bootstrap";
-<nav class="navbar navbar-dark navbar-expand-md bg-dark py-3" style="background: rgb(0,0,0);">
-        <div class="container"><a class="navbar-brand d-flex align-items-center" href="#"><span class="bs-icon-sm bs-icon-rounded bs-icon-primary d-flex justify-content-center align-items-center me-2 bs-icon" style="background: rgb(230,194,6);"><i class="fas fa-fire"></i></span><span style="font-family: Arbutus, serif;">COIN BURN</span></a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-5"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
-            <div class="collapse navbar-collapse" id="navcol-5">
-                <ul class="navbar-nav ms-auto"></ul><a class="btn btn-primary ms-md-2" role="button" href="#" style="background: rgb(48,117,222);font-weight: bold;text-align: center;font-size: 15px;color: rgb(204,182,182);" id="conn">CONNECT WALLET</a>
-            </div>
-        </div>
-</nav>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" 
+integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" 
+crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" 
+integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" 
+crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" 
+integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" 
+crossorigin="anonymous"></script>
